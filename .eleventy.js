@@ -1,6 +1,6 @@
 module.exports = function(eleventyConfig) {
 
-  eleventyConfig.addPassthroughCopy('./_site/images');
+  eleventyConfig.addPassthroughCopy('./_site');
 
   return {
     markdownTemplateEngine: 'njk',
