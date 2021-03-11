@@ -1,7 +1,7 @@
 ---
 
 title: Natssss
-
+layout: base.njk
 ---
 
 
