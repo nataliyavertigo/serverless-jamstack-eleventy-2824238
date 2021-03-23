@@ -1,7 +1,7 @@
 ---
 title: Welcome
 date: Created
-layout: base
+layout: pageTemplates/page.njk
 tags:
   - home
   - welcome
